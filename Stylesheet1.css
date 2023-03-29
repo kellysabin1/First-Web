@@ -1,0 +1,23 @@
+
+body {
+    font-size: 200%;
+    font-family: "Courier New";
+}
+
+img:hover {
+    transform: scale(1.2);
+}
+
+img {
+    transition-duration: 0.2s;
+    transition-delay: 0.1s;
+}
+
+.row {
+    padding: 16px 0px;
+}
+
+.blurb {
+    font-size: 3 00px;
+    font-family: "Courier New";
+}
